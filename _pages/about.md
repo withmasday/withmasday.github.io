@@ -9,7 +9,7 @@ redirect_from:
 classes: wide
 ---
 
-<img src="https://raw.githubusercontent.com/withmasday/withmasday/8d9eb78d7352d852505b376441baef8227d02d39/readmebox.svg" style="border-radius: 10px;"/>
+<img src="./images/banner.png" style="border-radius: 10px;"/>
 <br clear="left">
 <h3>👨🏻‍💻 About Me</h3>
 I am a Informatics student at Gunadarma Univeristy - A teenager who likes time behind the computer screen, long time on the internet. Trying new things is my passion, at least I want to be someone who is an expert in various things. My passion lies in embracing the unfamiliar and venturing into uncharted territories. I am driven by a desire to continually broaden my horizons and become proficient in a myriad of disciplines. I aspire to evolve into a versatile individual, adept in various fields, and to cultivate expertise that transcends the boundaries of conventional knowledge.
@@ -36,13 +36,13 @@ I am a Informatics student at Gunadarma Univeristy - A teenager who likes time b
 <span>Software Development - 7th Place Invofest</span>
 
 <b>2️⃣ 0️⃣ 2️⃣ 3️⃣ | </b>
-<span>Capture The Flag / Cyber Security - 2nd Place Hackfest0x07</span>
+<span>Capture The Flag - 2nd Place Hackfest0x07</span>
 
 <b>2️⃣ 0️⃣ 2️⃣ 4️⃣ | </b>
-<span>Capture The Flag / Cyber Security - Finalist Techcomfest</span>
+<span>Capture The Flag - Finalist Techcomfest</span>
 
 <b>2️⃣ 0️⃣ 2️⃣ 4️⃣ | </b>
-<span>Capture The Flag / Cyber Security - 3rd Place ACT CTF 1.0</span>
+<span>Capture The Flag - 3rd Place ACT CTF 1.0</span>
 
 <h3>🧾 Certifications</h3>
 
@@ -64,9 +64,12 @@ I am a Informatics student at Gunadarma Univeristy - A teenager who likes time b
 <b>2️⃣ 0️⃣ 2️⃣ 3️⃣ | </b>
 <span>Cyberwarfare - Cyber Security Analyst [C3SA]</span>
 
-<h3>🔰 Team & Organization</h3>
-<span>🇲🇨 Anon Cyber Team</span>
+<b>2️⃣ 0️⃣ 2️⃣ 4️⃣ | </b>
+<span>The SecOps Group - Certified AppSec Pentester (CAPen)</span>
 
-<span>🇲🇨 Cyber Community Univ. Gunadarma</span>
+<h3>🇲🇨 Team & Organization</h3>
+<span>Anon Cyber Team</span>
 
-<span>🇲🇨 Google Developer Student Clubs Univ. Gunadarma</span>
+<span>Cyber Community Univ. Gunadarma</span>
+
+<span>Google Developer Student Clubs Univ. Gunadarma</span>
